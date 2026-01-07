@@ -16,7 +16,8 @@ Quiero que los proyectos sean claros, útiles y bien documentados antes de hacer
 - Nmap, Wireshark  
 - Metasploit, Burp Suite  
 - Hydra, John the Ripper  
-- OpenVAS / Greenbone  
+- Mitre Att&ck
+- Cyber Kill Chain
 
 ### Redes y virtualización:
 
